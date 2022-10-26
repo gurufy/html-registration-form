@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <title>HTML registration form</title>
+</head>
+<body>
+  <form action="success.html">
+    <h2>Регистрация</h2>
+    <input type="text" name="email" placeholder="Почта" />
+    <br/>
+    <br/>
+    <input type="password" name="password" placeholder="Пароль"/>
+    <br/>
+    <br/>
+    <label>ФИО
+      <input type="text" />
+    </label>
+    <br/>
+    <br/>
+    <span>Пол:</span>
+     <input type="radio" name="gender" />Мужской
+     <input type="radio" name="gender" />Женский
+    <br/>
+    <br/>
+    <span>Дата рождения:</span>
+    <input type="date">
+    <br/>
+    <br/>
+    <label>Город: 
+      <select>
+        <option>Москва</option>
+        <option>Санкт-Петербург</option>
+        <option>Магас</option>
+      </select>
+    </label>
+    <br/>
+    <br/>
+    <span>Фотография:</span>
+    <input type="file" name="photo"/>
+    <br/>
+    <br/>
+    <button type="submit">Зарегистрироваться</button>
+  </form>
+</body>
+</html>
