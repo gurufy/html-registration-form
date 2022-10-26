@@ -6,10 +6,11 @@
 > Тебе могут пригодиться следующие теги: `<form>`, `p`, `span`, `<input>`, `<label>`, `<select>`, `<option>`, `<button>`, `<br>`
 
 ##### Пример фото 1
-![Registration page](/readme-assets/registration.png)
+[<img src="/readme-assets/registration.png" width="200"/>](/readme-assets/registration.png)
 
 ##### Пример фото 2
-![Success page](/readme-assets/success.png)
+[<img src="/readme-assets/success.png" width="200"/>](/readme-assets/success.png)
+
 
 ## Релиз 0
 - Создай страницу `success.html` с поздравлениями об успешной регистрации.
