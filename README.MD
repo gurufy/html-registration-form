@@ -6,10 +6,10 @@
 *Тебе могут пригодиться следующие теги: `<form>`, `<p>`, `<span>`, `<input>`, `<label>`, `<select>`, `<option>`, `<button>`, `<br>`*
 
 ##### Пример фото 1
-[<img src="/readme-assets/registration.png" width="200"/>](/readme-assets/registration.png)
+[<img src="/readme-assets/registration.png" width="400"/>](/readme-assets/registration.png)
 
 ##### Пример фото 2
-[<img src="/readme-assets/success.png" width="200"/>](/readme-assets/success.png)
+[<img src="/readme-assets/success.png" width="400"/>](/readme-assets/success.png)
 
 
 ## Релиз 0
